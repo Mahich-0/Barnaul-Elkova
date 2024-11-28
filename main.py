@@ -1,3 +1,1 @@
-print()
-print('n')
-print()
+print('My first git-repo')
